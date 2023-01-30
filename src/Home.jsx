@@ -32,8 +32,6 @@ const Home = () => {
     <div>
          <Navbar/>
          <Main/>
-      
-
         <Book/>
         <Responsive/>
         <Social/>
@@ -41,8 +39,7 @@ const Home = () => {
         <Blog/>
         <Accolades/>
         <Accordian/>
-        <Footer/>
-              
+        <Footer/>      
     </div>
   )
 }
